@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente trabalho com Python
-- 🌱 Estou aprendendo Django e JavaScript
+- 🔭 Atualmente Estudando Desenvolvimento Web
+- 🌱 Estou aprendendo JaaScript
 - 😄 Ele-Dele
 
 <div align="center">
